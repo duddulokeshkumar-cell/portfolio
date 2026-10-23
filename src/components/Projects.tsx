@@ -38,14 +38,14 @@ const projects = [
     github: "https://github.com/duddulokeshkumar-cell/react-grocery-app",
   },
   {
-    title: "Agency-website",
+    title: "Youtube-Clone",
     description:
-      "A responsive react agency website made for promoting a particular agency through online.",
+      "A responsive youtube-clone app to watch videos through online with the help of website.",
     image:
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800",
+      "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800",
     technologies: ["React", "TypeScript", "REST API"],
-    live: "https://6a1dae8d08af435bdbf20e32--beamish-piroshki-61a795.netlify.app/",
-    github: "https://github.com/duddulokeshkumar-cell/react-agency",
+    live: "https://6adb6fbdf5b9f0b0e39e7824--mellifluous-donut-9d844f.netlify.app/",
+    github: "https://github.com/duddulokeshkumar-cell/react-yt",
   },
 ];
 
@@ -241,4 +241,3 @@ const projects = [
 };
 
 export default Projects;
-
